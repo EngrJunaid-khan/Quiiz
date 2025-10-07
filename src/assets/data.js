@@ -1,0 +1,42 @@
+export const data = [
+    {
+      question: "Who is the Husband of Ms Marwa?",
+      option1: "Junaid Khan",
+      option2: "Ahmad",
+      option3: "Farhan ",
+      option4: "Ali",
+      ans: 1,
+    },
+    {
+      question: "What is your favrouite color for your Husband?",
+      option1: "black",
+      option2: "yellow",
+      option3: "white",
+      option4: "sky blue",
+      ans: 4,
+    },
+    {
+      question: "how many percent do you love your husband?",
+      option1: "100%",
+      option2: "30%",
+      option3: "50%",
+      option4: "10%",
+      ans: 1,
+    },
+    {
+      question: "What is your favorite time with your husband?",
+      option1: "When we’re fighting",
+      option2: "When we’re watching a movie togethe",
+      option3: "When he’s sleeping",
+      option4: "When he’s using his phone",
+      ans: 3,
+    },
+    {
+      question: "First page of Website is termed as?",
+      option1: "Index Page",
+      option2: "Homepage",
+      option3: "Sitemap",
+      option4: "Pen Drive",
+      ans: 2,
+    },
+  ];
